@@ -1,7 +1,7 @@
 # classwork-1
-- aaaaa
-+ nanny
-* shiiiiit
+- это
++ очень
+* странно
 
 [a,](https://www.facebook.com)
 
